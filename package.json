@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/projectperfect/JS_Web_Crawler/issues"
   },
-  "homepage": "https://github.com/projectperfect/JS_Web_Crawler#readme"
+  "homepage": "https://github.com/projectperfect/JS_Web_Crawler#readme",
+  "dependencies": {
+    "jsdom": "^21.0.0"
+  }
 }
